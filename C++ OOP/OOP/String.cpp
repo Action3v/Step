@@ -18,6 +18,12 @@ String::String(char* _str)
 	strcpy(str, _str);
 }
 
+//void String::SetString(char[])
+//{
+//	for (int i; i < size; i++)
+//		str[i] = 
+//}
+
 String::~String()
 {
 	delete[] str;

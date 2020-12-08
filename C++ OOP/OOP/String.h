@@ -14,5 +14,10 @@ public:
 		str = new char[size + 1];
 		strcpy(str, copyString.str);
 	}
+
+	//void SetString();
+
+	char* Getstring();
+
 	~String();
 };
