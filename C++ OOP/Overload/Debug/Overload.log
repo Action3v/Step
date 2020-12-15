@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Student PCE\source\repos\Erylkin\Step\C++ OOP\Overload\Source.cpp(1,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Student PCE\source\repos\Erylkin\Step\C++ OOP\Overload\Source.cpp(2,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+  Overload.vcxproj -> C:\Users\Student PCE\source\repos\Erylkin\Step\C++ OOP\Debug\Overload.exe
